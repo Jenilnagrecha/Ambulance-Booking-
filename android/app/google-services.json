@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "201098417253",
+    "project_id": "sirn-24-user-app",
+    "storage_bucket": "sirn-24-user-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:201098417253:android:d7e8b461f962ef22c8228c",
+        "android_client_info": {
+          "package_name": "com.example.siren24"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "201098417253-nidtq7ti1pqera0tre0i6oqb41nvs1e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8X9QBAuCO8HYLhWjdypDmdJ9bRVJxZN8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "201098417253-nidtq7ti1pqera0tre0i6oqb41nvs1e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
