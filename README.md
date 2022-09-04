@@ -12,8 +12,7 @@
 
 
 ### Demo for an app
-
-<img src="flutey.gif" height="300em" /> <img src="flute1.png" height="300em" /> <img src="flute2.png" height="300em" /> <img src="flute3.png" height="300em" /> <img src="flute4.png" height="300em" /><img src="flute5.png" height="300em" />
+<video src='video1.mov' width=180 />
 
 
 ## Getting Started
