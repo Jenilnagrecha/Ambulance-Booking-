@@ -12,7 +12,9 @@
 
 
 ### Demo for an app
-<video src='video1.mov' width=180 />
+[![Now in Android: 55]          // Title
+(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
+(https://youtu.be/M9nK6HMGobc "Now in Android: 55") 
 
 
 ## Getting Started
