@@ -12,7 +12,11 @@
 
 
 ### Demo for an app
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/M9nK6HMGobc "Now in Android: 55")
+
+
+https://user-images.githubusercontent.com/75077531/193422846-52b3a45e-1944-408e-b8c5-fe84afa91dea.mp4
+
+
 
 
 ## Getting Started
